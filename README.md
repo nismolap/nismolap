@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/nismolap](https://www.behance.net/nismolap)
 
-- 📝 I regularly write articles on [https://kay-capital.com](https://kay-capital.com)
-
 - 📫 How to reach me **nismolap@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/medoahmed](https://www.linkedin.com/in/medoahmed)
