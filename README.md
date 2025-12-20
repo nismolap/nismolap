@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 From: Egypt<br> Languages: Arabic, English, French<br><br>💼 Roles:<br>* Programmer <br>* Designer 🎨<br>* Marketer 📈<br>* Analyst 📊<br>* Team Lead 👥<br>* Planner 🗂️<br><br>🔭 I’m currently working on: FocalPoint-Apps Company and as a Freelancer
+🌍 From: Egypt<br> Languages: Arabic, English, French<br><br>💼 Roles:<br>* Programmer <br>* Designer 🎨<br>* Marketer 📈<br>* Analyst 📊<br>* Team Lead <br>* Planner 🗂️<br><br>🔭 I’m currently working on: FocalPoint-Apps Company and as a Freelancer
 
 
 ## 🌐 Socials:
